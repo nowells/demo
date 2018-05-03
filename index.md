@@ -8,7 +8,14 @@ You can use the [editor on GitHub](https://github.com/nowells/demo/edit/master/i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Data Browser on page load
 <opower-data-browser></opower-data-browser>
+
+## Dynamic
+
+<a href="javascript:document.querySelector('#dynamic').prepend(document.createElement('opower-bill-compare-enhanced'))">Click me</a> to inject bill compare
+
+<div id="dynamic"></div>
 
 ### Markdown
 
