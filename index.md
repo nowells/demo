@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Dynamic
 
-<a href="javascript:document.querySelector('#dynamic').appendChild(document.createElement('opower-neighbor-comparison'))">Click me</a> to inject neighbor comparison
+<p><a href="javascript:document.querySelector('#dynamic').appendChild(document.createElement('opower-neighbor-comparison'))">Click me</a> to inject neighbor comparison</p>
 
 <div id="dynamic"></div>
 
