@@ -1,12 +1,14 @@
+<script src="https://cdn.rawgit.com/clubajax/custom-elements-polyfill/821b16e1/index.js"></script>
+<script src="https://ei-util-qa.va.opower.it/ei/x/embedded-api/test.js"></script>
+<script>__maestro__.initialize({useFixtures: true});</script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nowells/demo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<script>
-console.log('bar')
-</script>
+<opower-data-browser></opower-data-browser>
 
 ### Markdown
 
